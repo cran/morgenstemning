@@ -1,0 +1,14 @@
+f3b95395afe4cd8aa48e8ca19e5c10e9 *DESCRIPTION
+ec8ceaea28613a3c9f6786e13381f846 *NAMESPACE
+9cbbee2c6ffb63de02b95537813e6153 *R/ametrine.R
+9d99f1c1213adf6022ae7df553894a1f *R/isolum.R
+d5243385a6cddf28137307d9cdd72625 *R/morgenstemning.R
+32f7a896ddbb53ad648b6ff0b64f6a0a *R/pracma.R
+a5ee2b62deb7c938ef2358b19ec47fc6 *README.md
+193bf120681f86c84a833b7ce356a323 *man/ametrine.Rd
+6897c91e8ab92ec8939f1836f5d42f69 *man/isolum.Rd
+7539ffecc07cefc42d75d1b3f6f73398 *man/morgenstemning.Rd
+fd331863c34356c252416d475614f96e *tests/test-all.R
+c68ca3c5454e16ecf1404842916bb8a4 *tests/testthat/test-ametrine.R
+12126201727db4c97476c2521701840f *tests/testthat/test-isolum.R
+28b3af015abe439b6ed12e3a6b01c700 *tests/testthat/test-morgenstemning.R
